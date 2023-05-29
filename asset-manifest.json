@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hello-frontend/static/css/main.a617e044.chunk.css",
+    "main.js": "/hello-frontend/static/js/main.0ef3718c.chunk.js",
+    "main.js.map": "/hello-frontend/static/js/main.0ef3718c.chunk.js.map",
+    "runtime-main.js": "/hello-frontend/static/js/runtime-main.e95b3948.js",
+    "runtime-main.js.map": "/hello-frontend/static/js/runtime-main.e95b3948.js.map",
+    "static/js/2.51b84a02.chunk.js": "/hello-frontend/static/js/2.51b84a02.chunk.js",
+    "static/js/2.51b84a02.chunk.js.map": "/hello-frontend/static/js/2.51b84a02.chunk.js.map",
+    "static/js/3.37c2f4a6.chunk.js": "/hello-frontend/static/js/3.37c2f4a6.chunk.js",
+    "static/js/3.37c2f4a6.chunk.js.map": "/hello-frontend/static/js/3.37c2f4a6.chunk.js.map",
+    "index.html": "/hello-frontend/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/hello-frontend/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.51b84a02.chunk.js.LICENSE.txt": "/hello-frontend/static/js/2.51b84a02.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/hello-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e95b3948.js",
+    "static/js/2.51b84a02.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.0ef3718c.chunk.js"
+  ]
+}
